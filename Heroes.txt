@@ -1,0 +1,2 @@
+Heroe{"nombre":"Mario","salud":100.0,"habilidad":100.0,"velocidad":100.0,"fuerza":100.0,"numVidas":3}
+Heroe{"nombre":"Luigi","salud":50.0,"habilidad":50.0,"velocidad":50.0,"fuerza":50.0,"numVidas":3}

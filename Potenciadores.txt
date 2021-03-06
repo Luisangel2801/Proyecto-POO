@@ -1,0 +1,5 @@
+4
+Potenciador1:[nombre="Estrella", descripcion="El potenciador más grande de todos", salud="0.0", habilidad="50.0", fuerza="50.0", velocidad="50.0"]
+Potenciador2:[nombre="Hongo naranja", descripcion="Potenciador de salud y fuerza", salud="25.0", habilidad="0.0", fuerza="50.0", velocidad="0.0"]
+Potenciador3:[nombre="Hongo rojo", descripcion="Potenciador habilidad y fuerza", salud="0.0", habilidad="25.0", fuerza="25.0", velocidad="0.0"]
+Potenciador4:[nombre="Hoja", descripcion="Potenciador de velocidad y habilidad", salud="0.0", habilidad="25.0", fuerza="0.0", velocidad="25.0"]
